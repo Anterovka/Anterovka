@@ -54,6 +54,12 @@ I am a Junior Web and Python Developer <img src="https://media.giphy.com/media/W
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Anterovka/antergarant1?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Anterovka/antergarant1?style=flat-square&labelColor=343b41"/></td>
     </tr>
+	<tr>
+      <td><a href="https://github.com/Anterovka/antergarant1"><b>Exchange Rate Telegram Bot</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Anterovka/exchange_rate_telegram?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Anterovka/exchange_rate_telegram?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Anterovka/exchange_rate_telegram?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
