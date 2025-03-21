@@ -67,11 +67,6 @@ I am a Junior Web and Python Developer <img src="https://media.giphy.com/media/W
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anterovka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-<br>
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anterovka&theme=juicyfresh&no-bg=true" />
-
 </div>
 
 <!-- BLOG-POST-LIST:END -->
