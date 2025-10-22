@@ -17,7 +17,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Junior Web and Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from <img src="https://abali.ru/wp-content/uploads/2012/09/russia_heart_icon_640_Abali.ru_.png" width="30px"/>Russia.
+I am a Junior Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from <img src="https://abali.ru/wp-content/uploads/2012/09/russia_heart_icon_640_Abali.ru_.png" width="30px"/>Russia.
 - :telescope: I'm learning to program in the field of web development.
 
 
