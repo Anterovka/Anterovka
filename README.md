@@ -19,12 +19,6 @@ I am a Junior Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :telescope: I'm learning to program in the field of web development.
 
 
-<div id="badges" align="center">
-<h3>Contact me:</h3>
-  <a href="https://t.me/pavel">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 <div id="main" align="center">
 <h1>My projects:</h1>
 	
