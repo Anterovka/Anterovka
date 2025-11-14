@@ -27,8 +27,7 @@ I am a Junior Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 <div id="main" align="center">
 <h1>My projects:</h1>
-
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+	
 <table>
   <thead align="center">
     <tr border: none;>
