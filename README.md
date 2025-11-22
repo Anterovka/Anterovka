@@ -34,22 +34,22 @@ I am a Junior Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
   <tbody>
     <tr>
-      <td><a href="https://github.com/Anterovka/PowerPC"><b>PowerPc WebSite</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Anterovka/PowerPC?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Anterovka/PowerPC?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Anterovka/PowerPC?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Anterovka/Nimble"><b>Конструктор Сайтов Nimble</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Anterovka/Nimble?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Anterovka/Nimble?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Anterovka/Nimble?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/Anterovka/antergarant1"><b>Garant Telegram Bot</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Anterovka/antergarant1?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Anterovka/antergarant1?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Anterovka/antergarant1?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Anterovka/aezadocker"><b>Docker Drag & drop</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Anterovka/aezadocker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Anterovka/aezadocker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Anterovka/aezadocker?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	<tr>
-      <td><a href="https://github.com/Anterovka/antergarant1"><b>Exchange Rate Telegram Bot</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Anterovka/exchange_rate_telegram?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Anterovka/exchange_rate_telegram?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Anterovka/exchange_rate_telegram?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Anterovka/Special-Git-GPT"><b>RAG-система для Git-репозиториев</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Anterovka/Special-Git-GPT?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Anterovka/Special-Git-GPT?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Anterovka/Special-Git-GPT?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
